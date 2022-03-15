@@ -8,8 +8,8 @@ Vue.use(VueSpinners)
 import VueSupabase from "vue-supabase";
 
 Vue.use(VueSupabase, {
-  supabaseUrl: "https://mdojcbpkrjwhyssjydwl.supabase.co",
-  supabaseKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlhdCI6MTY0NDIwODIzOCwiZXhwIjoxOTU5Nzg0MjM4fQ.Mlcw3PC8bc-7p7vrcMNpRFd1FVs5kEOFAgpWb7B8dvQ",
+  supabaseUrl: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlhdCI6MTY0NDIwODg3MywiZXhwIjoxOTU5Nzg0ODczfQ.36zy5xhq3HXagWI-IxyYBCw_a0HjL9EHzLKR04sf6e4",
+  supabaseKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlhdCI6MTY0NDIwODg3MywiZXhwIjoxOTU5Nzg0ODczfQ.36zy5xhq3HXagWI-IxyYBCw_a0HjL9EHzLKR04sf6e4",
   supabaseOptions: {},
 });
 
